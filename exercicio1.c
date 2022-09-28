@@ -6,7 +6,7 @@ recusada, acesso negado 3- codigo construido linha 9 a 23 4- teste1234 senha
 autorizada com sucesso, acesso autorizado 1233 senha recusada, acesso negado
 5- acredito que poderia melhorar em questão de colocar um loop quando der senha
 recusada*/
-/*#include <stdio.h>
+#include <stdio.h>
 int main(void) {
   int senha, senha_recebida;
 
@@ -21,4 +21,4 @@ int main(void) {
       printf("senha recusada, acesso negado");
     }
 
-}*/
+}
