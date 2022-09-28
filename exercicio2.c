@@ -5,7 +5,7 @@ dados de saida: media de idades e idade mais velha;
 3- construção codigo:
 4- teste: a media de idade eh 30,a idade mais velha eh 33
 5- revisão: acredito que o codigo deu alguns erros para achar a idade mais velha mas dependendo podemos melhorar colocando outras funções*/
-/*#include <stdio.h>
+#include <stdio.h>
 int main (void) {
   int n1, n2, n3, n4, soma, idade_velha;
   float media_idade;
@@ -41,4 +41,4 @@ int main (void) {
       }
   
   
-} */
+} 
