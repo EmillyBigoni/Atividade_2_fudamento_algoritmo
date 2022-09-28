@@ -11,7 +11,7 @@ dados de saida:Os 3 lados formam um triangulo equilatero, Os 3 lados formam um t
 2 4 1 os 3 lados nao formam um triangulo 
 5-acredito que da pra fazer de outra maneira mais a melhor forma que eu achei de fazer foi esta 
  */
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int x, y, z;
@@ -31,4 +31,4 @@ int main() {
     }
     else
         printf("Os 3 lados NAO formam um trinagulo!\n");
-}*/
+}
